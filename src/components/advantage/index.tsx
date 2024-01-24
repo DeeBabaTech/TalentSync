@@ -57,7 +57,7 @@ const Advantages = () => {
             />
           ))}
         </div>
-        <div className='md:w-2/5 ml-10 relative mt-20 md:mt-0'>
+        <div className='md:w-2/5 mx-auto md:mx-0 md:ml-10 relative mt-14 md:mt-0'>
           <div className='before:absolute before:-top-52 md:before:content-arrow before:scale-75'>
             <img src={Rectangle} alt='Rectangle' />
           </div>

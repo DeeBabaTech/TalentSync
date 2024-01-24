@@ -62,7 +62,7 @@ const Footer = () => {
         </div>
       </div>
       <div className='bg-slate-100'>
-        <div className='w-5/6 mx-auto flex md:flex-row flex-col items-center justify-between py-7 text-sm gap-3 md:gap-0'>
+        <div className='w-5/6 mx-auto flex md:flex-row flex-col items-center justify-between py-7 text-sm gap-5 md:gap-0'>
           <p className='font-semibold'>
             © 2023 ClearLink. All rights reserved.
           </p>
